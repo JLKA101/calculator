@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(95, 126, 192);
+    font-family: serif;
+}
+.add {
+    color: red;
+}
+.times {
+    color: rgb(255, 225, 0);
+}
+.divide {
+    color: rgb(255, 140, 0);
+}
+.minus {
+    color: rgb(255, 0, 102);
+}
